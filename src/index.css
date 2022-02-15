@@ -1,0 +1,30 @@
+body, html {
+  height: 100%;
+  
+  }
+  .bg {
+  background-image: url("baby2.jfif");
+  height: 100vh;  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 300px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  
+.Container{
+  width: 25%;
+  margin: auto;
+  background-image: url("blueClair.jfif");
+  color: white;
+
+}
+Form{
+padding: 0 30px 10px 10px!important;
+
+}
